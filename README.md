@@ -1,2 +1,2 @@
 # bookbot
-boot.dev guided project
+BookBot is the first guided Python project from the boot.dev learning website. 
